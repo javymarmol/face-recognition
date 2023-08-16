@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Face Recognition</string>
+    <string name="capture_button">Capture</string>
+    <string name="torch_button">Torch</string>
+    <string name="photo">Photo</string>
+    <string name="video">Video</string>
+</resources>
